@@ -18,3 +18,11 @@ Please Run infer.py
 ### Datasets
 
 Please alter path in config.py and datasets.py
+
+### Saliency map
+Saliency map can be downloaded from
+
+通过百度网盘分享的文件：results
+链接：https://pan.baidu.com/s/17rX2sm4N18hudgarXOHctA?pwd=369E 
+提取码：369E 
+复制这段内容打开「百度网盘APP 即可获取」
