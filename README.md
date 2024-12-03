@@ -26,3 +26,8 @@ Saliency map can be downloaded from
 链接：https://pan.baidu.com/s/17rX2sm4N18hudgarXOHctA?pwd=369E 
 提取码：369E 
 复制这段内容打开「百度网盘APP 即可获取」
+
+### Weight
+
+https://drive.google.com/file/d/1PXotxbeO4jlHuQ9zvFkstafhRj_8lm8t/view?usp=drive_link.
+
